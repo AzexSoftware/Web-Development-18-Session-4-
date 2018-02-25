@@ -11,6 +11,7 @@
   
 * ### part(2):
   * String Functions
+  * Small Project
     
 
 **Date**: *25/2/2018*
